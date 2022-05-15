@@ -9,13 +9,14 @@
 .blog{
     width: calc(100%/12*11);
     height: 700px;
-    background: linear-gradient(#e66465, #2ff052);
+    background: linear-gradient(#e9ff69, #2f87ec);
 }
 
 .big-show{
     width: 65%;
     margin-top: 30px;
     height: 510px;
+    
 }
 .big-show img{
     width: 100%;
@@ -47,4 +48,16 @@
 width: 100%;
 height: 120px;
 cursor: pointer;
+}
+.left-btn,.right-btn{
+    position: absolute;
+    font-size: 50px;
+    cursor: pointer;
+    color:rgb(106, 104, 104);
+}
+.right-btn{ 
+    right: 16.5%;
+}
+.left-btn{
+    left: 16.5%;
 }
