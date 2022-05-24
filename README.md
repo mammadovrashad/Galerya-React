@@ -1,6 +1,6 @@
 # Layihe başladı 15.05.2022
 
-## istifadə olunub 
+## Istifadə olunub 
 --- useState
 
 --- UseRef
